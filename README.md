@@ -1,4 +1,4 @@
-Spring Sample
+Spring Sample 
 =============
 
 This is a Java sample using the Spring framework and a MySQL service.
